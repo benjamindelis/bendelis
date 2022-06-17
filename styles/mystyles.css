@@ -1,0 +1,16 @@
+h1{
+    color:  lightgrey;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{background-color: lightgrey;}
+
+h2{font-size: smaller;}
+
+h2{color: lightgray;}
+
